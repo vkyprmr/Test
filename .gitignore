@@ -33,6 +33,10 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+[dD]ata/
+
+# Pycharm
+.idea/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
